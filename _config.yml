@@ -18,10 +18,10 @@ established_at: "2020-7-04T00:00+08:00"
 # organization_url: https://teelab.net
 # contact: contact[at]irockbunny[dot]com
 
-image: /images/logo.png
-logo: /images/logo.png
-logo_dark: /images/logo-dark.svg
-logo_white: /images/logo-white.svg
+image: /Hbcit.Wiki/images/logo.png
+logo: /Hbcit.Wiki/images/logo.png
+logo_dark: /Hbcit.Wiki/images/logo-dark.svg
+logo_white: /Hbcit.Wiki/images/logo-white.svg
 
 plugins:
 - jekyll-seo-tag
@@ -31,7 +31,7 @@ exclude:
 - .gitignore
 - .travis.yml
 - LICENSE
-# - README.md
+- README.md
 - CNAME
 - Gemfile
 - Gemfile.lock
