@@ -1,0 +1,39 @@
+repository: ZhangYunfan123/zhangyunfan.github.io
+repository_url: https://github.com/ZhangYunfan123/zhangyunfan.github.io
+
+timezone: Asia/Shanghai
+lang: zh_CN
+
+title: 工院人导航 · Hbcit-Wiki
+alias_en: Hbcit-Wiki
+alias_cn: 工院人导航
+description: A Navigation Website for BYR
+keywords: 工院人导航, Hbcit-Wiki, Hbcit,河北工业职业技术学院
+url: https://hbcit.zyf520.xyz/
+established_at: "2020-7-04T00:00+08:00"
+
+# author: iROCKBUNNY
+# author_url: https://irockbunny.com
+# organization: TEELAB
+# organization_url: https://teelab.net
+# contact: contact[at]irockbunny[dot]com
+
+image: /images/logo.png
+logo: /images/logo.png
+logo_dark: /images/logo-dark.svg
+logo_white: /images/logo-white.svg
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+# - README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
+- vendor
