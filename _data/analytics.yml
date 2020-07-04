@@ -4,6 +4,6 @@ google:
 matomo:
   url: https://zztj.zyf520.xyz/
   domains:
-  - "https://zhangyunfan123.github.io/Hbcit.Wiki/"
-  site_id: 2
+  - "https://hbcit.zyf520.xyz/"
+  site_id: 1
   token: d0be23c87efbb54580886d9b7436294a
